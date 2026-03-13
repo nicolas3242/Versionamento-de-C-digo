@@ -21,4 +21,4 @@ Objetivo profissional: Me tornar um desenvolvedor de software e trabalhar com te
 LinkedIn: https://www.linkedin.com/in/nícolas-braga-228477352
 
 ##  Imagem
-![Programação](https://images.unsplash.com/photo-1518770660439-4636190af475
+![Programação](https://images.unsplash.com/photo-1518770660439-4636190af475)
