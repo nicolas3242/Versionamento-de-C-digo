@@ -1,7 +1,7 @@
 # Meu Primeiro Repositório 
 
 ## 👤 Sobre mim
-Nome: Nicolas Pereira Braga
+Nome: Nicolas
 Curso: Desenvolvimento de Sistemas  
 Objetivo profissional: Me tornar um desenvolvedor de software e trabalhar com tecnologia.
 
