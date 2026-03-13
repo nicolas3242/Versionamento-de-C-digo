@@ -20,5 +20,5 @@ Objetivo profissional: Me tornar um desenvolvedor de software e trabalhar com te
 ## 🌐 Redes
 LinkedIn: https://www.linkedin.com/
 
-## 🖼️ Imagem
+##  Imagem
 ![Programação](https://images.unsplash.com/photo-1518770660439-4636190af475)
