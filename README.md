@@ -1,1 +1,24 @@
-# Versionamento-de-C-digo
+# Meu Primeiro Repositório 🚀
+
+## 👤 Sobre mim
+Nome: Nicolas  
+Curso: Desenvolvimento de Sistemas  
+Objetivo profissional: Me tornar um desenvolvedor de software e trabalhar com tecnologia.
+
+## 💻 Habilidades
+- HTML
+- CSS
+- Java
+- GitHub
+
+## 📚 O que estou aprendendo
+1. Git
+2. GitHub
+3. Programação
+4. Desenvolvimento Web
+
+## 🌐 Redes
+LinkedIn: https://www.linkedin.com/
+
+## 🖼️ Imagem
+![Programação](https://images.unsplash.com/photo-1518770660439-4636190af475)
